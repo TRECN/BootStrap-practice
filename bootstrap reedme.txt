@@ -10,3 +10,10 @@ bootstrap
     my for margin 
     border for border
     bg-dark for dark background
+
+3. Resposnsive CONTAINERS
+    .container-sm 
+    .container-md 
+    .container-lg 
+    .container-xl 
+    
