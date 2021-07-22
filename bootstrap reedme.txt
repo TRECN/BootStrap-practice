@@ -1,0 +1,4 @@
+bootstrap
+1. .container: class provides a responsive fixed width container
+	.container-fluid: class provides a full width container, spanning the entire width of the viewport
+	
