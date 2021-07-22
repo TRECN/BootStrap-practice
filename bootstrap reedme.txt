@@ -1,4 +1,8 @@
 bootstrap
-1. .container: class provides a responsive fixed width container
+
+1. CONTAINERS
+    .container: class provides a responsive fixed width container
 	.container-fluid: class provides a full width container, spanning the entire width of the viewport
-	max-width will change on different screen sizes:
+    max-width will change on different screen sizes:
+
+2. Container border and color
