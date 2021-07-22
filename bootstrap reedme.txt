@@ -6,3 +6,6 @@ bootstrap
     max-width will change on different screen sizes:
 
 2. Container border and color
+    p- can be added for paddong 
+    my for margin 
+    border for border
