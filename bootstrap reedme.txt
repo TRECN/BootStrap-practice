@@ -18,5 +18,8 @@ bootstrap
     .container-xl 
 
 4.Grid system
+   columns
+    .col is used to make column of and bootstrap handels it 
+    
 
     
