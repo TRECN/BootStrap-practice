@@ -21,5 +21,8 @@ bootstrap
    columns
     .col is used to make column of and bootstrap handels it 
     
+5. Tables
+    .table makes a basic table layout
+    
 
     
