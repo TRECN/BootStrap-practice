@@ -23,6 +23,6 @@ bootstrap
     
 5. Tables
     .table makes a basic table layout
-    
+    .table-striped makes a table with striped row design
 
     
