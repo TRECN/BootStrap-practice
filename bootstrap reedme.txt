@@ -25,5 +25,5 @@ bootstrap
     .table makes a basic table layout
     .table-striped makes a table with striped row design
     .table-bordered class adds borders on all sides of the table and cells:
-
+    .table-hover class adds a hover effect (graybackground color) on table rows:
     
