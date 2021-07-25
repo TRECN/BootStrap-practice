@@ -31,3 +31,5 @@ bootstrap
     .rounded gives rounded corners to the image
     .rounded-circle makes the image circuler
     .img-thumbnail gives border to the image
+    .float-left .float-right are used to align images
+    
