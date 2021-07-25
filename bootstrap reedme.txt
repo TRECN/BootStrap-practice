@@ -34,3 +34,6 @@ bootstrap
     .float-left .float-right are used to align images
     .mx-auto .d-block can be used to center the image
     .img-fluid for responsive image
+
+6. Jumbotron
+    A jumbotron indicates a big grey box for calling extra attention to some special content or information.
