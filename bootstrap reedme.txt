@@ -29,3 +29,4 @@ bootstrap
 
 5. images
     .rounded gives rounded corners to the image
+    .rounded-circle makes the image circuler
