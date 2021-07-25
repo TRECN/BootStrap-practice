@@ -32,4 +32,4 @@ bootstrap
     .rounded-circle makes the image circuler
     .img-thumbnail gives border to the image
     .float-left .float-right are used to align images
-    
+    .mx-auto .d-block can be used to center the image
