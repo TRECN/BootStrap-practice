@@ -38,3 +38,4 @@ bootstrap
 6. Jumbotron
     A jumbotron indicates a big grey box for calling extra attention to some special content or information.
     it gives rounded borders
+    .jumbotron-fluid removes rounded border
