@@ -43,3 +43,4 @@ bootstrap
 7. .alerts
     it is used to create alerts
     .alert-success makes the alert green with rounded corners
+    .alert-link is used to make a link for alert
