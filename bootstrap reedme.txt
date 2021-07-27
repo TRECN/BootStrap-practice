@@ -46,3 +46,5 @@ bootstrap
     .alert-link is used to make a link for alert
 
 8. .btn is used to make buttons in bootstrap
+   .btn can be used in <a> <button> <input>
+   btn-primary,secondary,success,info, warning, danger, dark, light, link these are the basic properties 
