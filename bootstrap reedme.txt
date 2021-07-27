@@ -52,3 +52,5 @@ bootstrap
    btn-lg,sm can make button large and small
 9. .spinner-border
     this class makes the loading animation
+    disabled property makes the button not working
+    .spinner-glow is a glowing animation
