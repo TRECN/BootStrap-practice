@@ -44,3 +44,5 @@ bootstrap
     it is used to create alerts
     .alert-success makes the alert green with rounded corners
     .alert-link is used to make a link for alert
+
+8. .btn is used to make buttons in bootstrap
