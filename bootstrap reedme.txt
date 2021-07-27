@@ -49,3 +49,6 @@ bootstrap
    .btn can be used in <a> <button> <input>
    btn-primary,secondary,success,info, warning, danger, dark, light, link these are the basic properties 
    btn-outline-primary,secondary,success,info,warning, danger,dark, light
+   btn-lg,sm can make button large and small
+9. .spinner-border
+    this class makes the loading animation
