@@ -58,3 +58,4 @@ bootstrap
 10. .btn-group
     use a <div> element with class .btn-group to create a button group
     btn-group-lg,sm can be used to determine the size of the group
+    .btn-group-vertical is used to make vertical groups
