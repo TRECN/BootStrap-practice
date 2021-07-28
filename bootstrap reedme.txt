@@ -59,3 +59,7 @@ bootstrap
     use a <div> element with class .btn-group to create a button group
     btn-group-lg,sm can be used to determine the size of the group
     .btn-group-vertical is used to make vertical groups
+
+11. .dropdown-toggle 
+    It is used to create a dropdown button and data-toggle="dropdown" attribute is added
+    to to enable the dropdown 
