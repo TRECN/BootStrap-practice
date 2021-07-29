@@ -63,4 +63,5 @@ bootstrap
 11. .dropdown-toggle 
     It is used to create a dropdown button and data-toggle="dropdown" attribute is added
     to to enable the dropdown 
+    span.caret is added to the split button to change the icon of the split
     
