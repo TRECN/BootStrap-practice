@@ -65,3 +65,6 @@ bootstrap
     to to enable the dropdown 
     span.caret is added to the split button to change the icon of the split
     
+12. .badges 
+    it is used for span
+    it is used to create badges for the elements
