@@ -69,3 +69,4 @@ bootstrap
     it is used for span
     it is used to create badges for the elements
     badge-primary,secondary,success,info, warning, danger, dark, light
+    .badge-pill is used to make pill shaped badges
