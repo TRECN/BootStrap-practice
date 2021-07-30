@@ -70,3 +70,7 @@ bootstrap
     it is used to create badges for the elements
     badge-primary,secondary,success,info, warning, danger, dark, light
     .badge-pill is used to make pill shaped badges
+
+13. .progress
+    it is used to create a progress bar.
+    
