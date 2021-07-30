@@ -75,3 +75,4 @@ bootstrap
     it is used to create a progress bar.
     .progress-bar is used to create the bar in the progress  bar
     style="width:;" is used to determine the progress
+    style="height:;" is used to determine the height of progess bar
