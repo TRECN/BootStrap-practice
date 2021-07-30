@@ -77,3 +77,4 @@ bootstrap
     style="width:;" is used to determine the progress
     style="height:;" is used to determine the height of progess bar
     to label the progess bar we put he value of the progess bar div 
+    to color the progress bar we use .bg-success,info,warning,danger,white,secondary
