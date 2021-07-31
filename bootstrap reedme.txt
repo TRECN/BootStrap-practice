@@ -79,3 +79,4 @@ bootstrap
     to label the progess bar we put he value of the progess bar div 
     to color the progress bar we use .bg-success,info,warning,danger,white,secondary
     .progress-bar-striped is used to make a striped progress bar
+    .progress-bar-animated to make the progress bar animated
