@@ -88,3 +88,4 @@ bootstrap
     .nav-link in a 
     by default the nav bar is left algned
     bt it can be changed by adding .justify-content-end or .justify-content-center to ul
+    .flex-column is used to create a vertical nav
