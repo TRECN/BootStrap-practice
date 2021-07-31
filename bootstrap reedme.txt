@@ -80,3 +80,9 @@ bootstrap
     to color the progress bar we use .bg-success,info,warning,danger,white,secondary
     .progress-bar-striped is used to make a striped progress bar
     .progress-bar-animated to make the progress bar animated
+
+14. Nav Menus
+    we use <ul> and <li> elements to create nav menus
+    .nav is used in ul
+    .nav-item in li
+    .nav-link in a 
