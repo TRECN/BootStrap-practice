@@ -92,3 +92,6 @@ bootstrap
     .nav-tabs is used to make the nav appear as tabs
     .nav-pills is used to make the bav appear as pills
     .nav-justified is used in <ul> to make the nav be justified
+    for making dropdown in pill nav or tab nav we use .dropdown in li tag
+    and .dropdown-toggle and data-toggle="dropdown" in the a tag
+    and make the dropdown-menue 
