@@ -91,3 +91,4 @@ bootstrap
     .flex-column is used to create a vertical nav
     .nav-tabs is used to make the nav appear as tabs
     .nav-pills is used to make the bav appear as pills
+    .nav-justified is used in <ul> to make the nav be justified
