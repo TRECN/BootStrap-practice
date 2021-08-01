@@ -95,3 +95,7 @@ bootstrap
     for making dropdown in pill nav or tab nav we use .dropdown in li tag
     and .dropdown-toggle and data-toggle="dropdown" in the a tag
     and make the dropdown-menue 
+    for making toggleable tabs we use role="tablist" in ul tag
+    then data-toggle="tab" in the a tags setting the href="#the id of the div of the content"
+    we make the content of the tab after the unordered list
+    we use .tab-content in the div
