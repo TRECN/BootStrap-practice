@@ -98,4 +98,6 @@ bootstrap
     for making toggleable tabs we use role="tablist" in ul tag
     then data-toggle="tab" in the a tags setting the href="#the id of the div of the content"
     we make the content of the tab after the unordered list
-    we use .tab-content in the div
+    we use .tab-content in the div-in this div we will write all the tabs using div.container.tab-pane
+    we will add .active to the div we want active
+    we will set the id of the div 
