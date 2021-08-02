@@ -107,3 +107,4 @@ bootstrap
     to make a responsive nav bar we use navbar-expand-sm,lg,xl,md 
     to make it vertical remove the navbar-expand
     ul.navbar-nav is used
+    for colored navbar use bg-... or navbar-dark,light
