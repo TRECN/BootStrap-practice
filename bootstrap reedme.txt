@@ -101,3 +101,9 @@ bootstrap
     we use .tab-content in the div-in this div we will write all the tabs using div.container.tab-pane
     we will add .active to the div we want active
     we will set the id of the div 
+
+15. navbar
+    we use nav element and class name .navbar
+    to make a responsive nav bar we use navbar-expand-sm,lg,xl,md 
+    to make it vertical remove the navbar-expand
+    ul.navbar-nav is used
