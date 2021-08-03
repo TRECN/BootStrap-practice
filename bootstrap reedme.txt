@@ -110,3 +110,5 @@ bootstrap
     for colored navbar use bg-... or navbar-dark,light
     to add a logo or brand name use the a tag and class nav-brand
     if a image is used the use img tag in it
+     
+    to make a navbar fixed at top we use .fixed-top in nav tag
