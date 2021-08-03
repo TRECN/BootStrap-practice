@@ -112,3 +112,4 @@ bootstrap
     if a image is used the use img tag in it
      
     to make a navbar fixed at top we use .fixed-top in nav tag
+    Use the .sticky-top class to make the navbar fixed/stay at the top of the page when you scroll past it. 
