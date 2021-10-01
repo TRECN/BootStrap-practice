@@ -8,8 +8,7 @@
 
 .logo{
     background-image: url(./assets/logo.png);
-    display: inline;
-    background-size:50% 50%;
-    width: 90%;
-    height: auto;
+    
+    width: 100px;
+    height: 100px;
 }
