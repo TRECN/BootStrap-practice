@@ -6,8 +6,10 @@
     border-bottom: 2px solid rgb(223, 219, 219);
 }
 
-.logo_{
-    padding: 20px;
-    width: 100px;
-    height: 40px;
+.logo{
+    background-image: url(./assets/logo.png);
+    display: inline;
+    background-size:50% 50%;
+    width: 90%;
+    height: auto;
 }
