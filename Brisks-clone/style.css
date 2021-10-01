@@ -10,6 +10,6 @@
     display: inline-block;
     background-image: url(./assets/logo.png);
     background-repeat: no-repeat;
-    width: 90%;
+    width: inherit;
     height: 50px;
 }
