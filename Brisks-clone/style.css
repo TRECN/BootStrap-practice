@@ -1,3 +1,9 @@
+body{
+    margin: 20px;
+}
+
 .logo_{
-    content: url(./assets/2021-10-01.png);
+    content: url(./assets/logo.png);
+    width: 122px;
+    height: 56px;
 }
