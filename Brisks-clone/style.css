@@ -7,8 +7,9 @@
 }
 
 .logo{
+    display: inline-block;
     background-image: url(./assets/logo.png);
-    
-    width: 100px;
-    height: 100px;
+    background-repeat: no-repeat;
+    width: 90%;
+    height: 50px;
 }
