@@ -7,9 +7,5 @@
 }
 
 .logo{
-    display: inline-block;
-    background-image: url(./assets/logo.png);
-    background-repeat: no-repeat;
-    width: 100px;
-    height: 50px;
+   
 }
