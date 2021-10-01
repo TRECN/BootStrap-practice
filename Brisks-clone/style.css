@@ -3,11 +3,12 @@
     padding: 0;
 }
 .navbar{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid rgb(223, 219, 219);
 }
 
 .logo_{
     content: url(./assets/logo.png);
-    width: 122px;
-    height: 56px;
+    padding: 20px;
+    width: 100px;
+    height: 40px;
 }
